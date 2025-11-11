@@ -1,0 +1,8 @@
+{
+  "name": "arcade-mp3",
+  "description": "Web-only MP3 audio for MakeCode Arcade",
+  "dependencies": { "device": "*", "music": "*" },
+  "files": ["main.ts"],
+  "supportedTargets": ["arcade"],
+  "simulator": { "autoRun": true }
+}
